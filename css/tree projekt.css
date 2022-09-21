@@ -1263,7 +1263,7 @@ padding: 70px;
 .Our-Awesome{
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url(/fold/stats.jpg);
+    background-image: url(./fold/stats.jpg);
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1353,7 +1353,7 @@ padding: 70px;
     }
 }
 .left-Request{
-    background-image: url(/fold/discount-background1.jpg);
+    background-image: url(./fold/discount-background1.jpg);
     background-size: cover;
     position: relative;
     z-index: 1;
